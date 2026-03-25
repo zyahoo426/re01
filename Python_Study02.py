@@ -34,4 +34,4 @@ for value in range(1,11):
     squares.append(value **3)
 print(squares)
 
-#v0.1
+#v0.3
