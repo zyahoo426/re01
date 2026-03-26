@@ -12,3 +12,19 @@ print(f"My favorite foods are :\n{My_Foods}")
 
 print(f"My friend's favorite foods are:\n{My_Friends_Foods}")
 
+#元组： 列表是可以修改的，而不可变的列表被称为元组。
+
+demensions = (200,50)
+print(demensions[0])
+print(demensions[1])
+
+#虽然不能修改元组的元素，但是可以给储存元组的变量赋值
+
+demensions = (400,40)
+print(demensions[0])
+print(demensions[1])
+
+
+answer = 17
+if answer != 42:
+    print("That's not the correct  answer! Please try again.")
