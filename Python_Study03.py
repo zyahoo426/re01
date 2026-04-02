@@ -28,3 +28,16 @@ print(demensions[1])
 answer = 17
 if answer != 42:
     print("That's not the correct  answer! Please try again.")
+
+
+
+#   你好，这里是字典。字典可存储的信息量几乎不受限制。
+
+alien_0 = {'color':'green','number':5}
+
+print(alien_0['color'])
+print(alien_0['number'])
+
+
+
+#嵌套
